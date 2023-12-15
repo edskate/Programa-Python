@@ -14,3 +14,11 @@
 | //       | Divisão inteira |     |
 | %        | Modulo (MOD)    |     |
 | \*\*     | Potenciação     |     |
+
+| Maior  e Menor <> |  Operadores Logicos      |  And, or , Not   |
+| -------- | --------------- | --- |
+|     Idade entre maior e Menor    |        idade         |  False ou true  |
+|           |                       |                    |                  |
+|           |                       |                    |                  |
+|           |                       |                    |                  |
+|           |                       |                    |                  |
